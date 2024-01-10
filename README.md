@@ -21,7 +21,7 @@ The Stock Data Scraper is a Python program designed to scrape stock data from Ya
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/stock-data-scraper.git
+    git clone https://github.com/Pawan-Bhatt/Stock_data_scrapper.git
     ```
 
 2. Install the required Python packages:
